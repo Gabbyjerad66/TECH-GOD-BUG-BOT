@@ -29,7 +29,7 @@ global.themeemoji = '🪀'
 global.wm = "Gabby."
 
 //theme link
-global.link = 'https://whatsapp.com/channel/0029Va9Ufzi8kyyEHvOm1h'
+global.link = 'https://whatsapp.com/channel/0029Vag8DKbK5cD9hCESKo2V'
 
 //custom prefix
 global.prefa = ['','!','.','#','&']
